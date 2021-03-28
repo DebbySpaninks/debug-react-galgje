@@ -1,4 +1,10 @@
-# Steps that i made for debugging this bug
+# Steps that i made for debugging this game
+
+
+
+nog invullen!!
+
+
 
 - open react devTools
 - see components and output
