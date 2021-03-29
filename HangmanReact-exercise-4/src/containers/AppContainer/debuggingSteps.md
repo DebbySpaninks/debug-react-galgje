@@ -2,6 +2,7 @@
 
 - open react devTools
 - see components and output
+- try game
     the clickfunction is working without input
 - see AppContainer and other components
     in AppContainer was missing an if statement to check if currentChosenLetter is bigger then 0
